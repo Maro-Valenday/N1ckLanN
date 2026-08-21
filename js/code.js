@@ -7,7 +7,19 @@ const translations = {
         "tiktok-title": "TikTok War Thunder Toaster",
         "tiktok-description": "Иностранный канал TikTok",
         "shorts-title": "YouTube Short's War Thunder Toaster",
-        "shorts-description": "Иностранный канал YouTube short's"
+        "shorts-description": "Иностранный канал YouTube short's",
+        "donationAlerts-title": "DonationAlerts",
+        "donationAlerts-description": "Донат ссылка",
+        "steam-title": "Steam Обмен",
+        "steam-description": "",
+        "twitch-title": "Канал Twitch",
+        "twtich-description": "",
+        "sifontv-title": "War Thunder Sifon TV",
+        "sifontv-description": "",
+        "telegram-title": "ТГК Deep Dark Fantasy",
+        "telegram-description": "",
+        "discord-title": "♂300 Buckssss♂",
+        "discord-description": "Мой Discord Сервер",
     },
 
     en: {
@@ -18,7 +30,19 @@ const translations = {
         "tiktok-title": "TikTok War Thunder Toaster",
         "tiktok-description": "",
         "shorts-title": "YouTube Short's War Thunder Toaster",
-        "shorts-description": ""
+        "shorts-description": "",
+        "donationAlerts-title": "DonationAlerts",
+        "donationAlerts-description": "Donate link",
+        "steam-title": "Steam Trade",
+        "steam-description": "",
+        "twitch-title": "Channel Twitch",
+        "twtich-description": "",
+        "sifontv-title": "War Thunder Sifon TV",
+        "sifontv-description": "",
+        "telegram-title": "ТГК Deep Dark Fantasy",
+        "telegram-description": "",
+        "discord-title": "♂300 Buckssss♂",
+        "discord-description": "My Discord Server",
     }
 }
 
