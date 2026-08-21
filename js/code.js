@@ -1,48 +1,66 @@
 const translations = {
     ru: {
         "war-title": "Играй в War Thunder Прямо Сейчас!!!",
-        "war-description": "War Thunder – это самая масштабная бесплатная кроссплатформенная многопользовательская онлайн-игра, посвященная боевой технике. Доступны образцы самых разных войн и конфликтов – с начала XX века и до наших дней. Авиация, наземные силы и флот сражаются вместе в одном бою, как это и происходило в настоящих сражениях.",
+        "war-description": "Регистрация в War Thunder по моей ссылке.",
+
         "discord-sights": "Discord Прицелы",
-        "discord-sights-description": "Кому нужны кадры из видео? (Дискорт не мой, он принадлежит художникам)",
+        "discord-sights-description": "Прицелы из моих видео. Сервер принадлежит художникам.",
+
         "tiktok-title": "TikTok War Thunder Toaster",
-        "tiktok-description": "Иностранный канал TikTok",
-        "shorts-title": "YouTube Short's War Thunder Toaster",
-        "shorts-description": "Иностранный канал YouTube short's",
+        "tiktok-description": "Мой англоязычный TikTok с контентом по War Thunder.",
+
+        "shorts-title": "YouTube Shorts War Thunder Toaster",
+        "shorts-description": "Мой англоязычный канал с короткими видео по War Thunder.",
+
         "donationAlerts-title": "DonationAlerts",
-        "donationAlerts-description": "Донат ссылка",
+        "donationAlerts-description": "Поддержать меня донатом ❤️",
+
         "steam-title": "Steam Обмен",
-        "steam-description": "",
-        "twitch-title": "Канал Twitch",
-        "twtich-description": "",
+        "steam-description": "Обмен предметами Steam.",
+
+        "twitch-title": "Twitch Канал",
+        "twitch-description": "Стримы и другой контент.",
+
         "sifontv-title": "War Thunder Sifon TV",
-        "sifontv-description": "",
+        "sifontv-description": "Канал с контентом по War Thunder.",
+
         "telegram-title": "ТГК Deep Dark Fantasy",
-        "telegram-description": "",
+        "telegram-description": "Мой Telegram-канал.",
+
         "discord-title": "♂300 Buckssss♂",
-        "discord-description": "Мой Discord Сервер",
+        "discord-description": "Мой Discord-сервер и сообщество."
     },
 
     en: {
         "war-title": "Play War Thunder Now!!!",
-        "war-description": "War Thunder is the largest free-to-play, cross-platform, multiplayer online game dedicated to military vehicles. It features images from a wide range of wars and historical events, from the early 20th century to the present day. Air forces, ground forces, and naval forces fight together in a single battle, as death awaits on real battlefields.",
+        "war-description": "Register for War Thunder using my link.",
+
         "discord-sights": "Discord Sights",
-        "discord-sights-description": "Who needs the sights from the videos? (The Discord isn't mine, it's the artists')",
+        "discord-sights-description": "Crosshairs from my videos. The server belongs to the artists.",
+
         "tiktok-title": "TikTok War Thunder Toaster",
-        "tiktok-description": "",
-        "shorts-title": "YouTube Short's War Thunder Toaster",
-        "shorts-description": "",
+        "tiktok-description": "My English-language TikTok with War Thunder content.",
+
+        "shorts-title": "YouTube Shorts War Thunder Toaster",
+        "shorts-description": "My English-language channel with short War Thunder videos.",
+
         "donationAlerts-title": "DonationAlerts",
-        "donationAlerts-description": "Donate link",
+        "donationAlerts-description": "Support me with a donation ❤️",
+
         "steam-title": "Steam Trade",
-        "steam-description": "",
-        "twitch-title": "Channel Twitch",
-        "twtich-description": "",
+        "steam-description": "Trade Steam items with me.",
+
+        "twitch-title": "Twitch Channel",
+        "twitch-description": "Streams and other content.",
+
         "sifontv-title": "War Thunder Sifon TV",
-        "sifontv-description": "",
-        "telegram-title": "ТГК Deep Dark Fantasy",
-        "telegram-description": "",
+        "sifontv-description": "A channel with War Thunder content.",
+
+        "telegram-title": "Deep Dark Fantasy",
+        "telegram-description": "My Telegram channel.",
+
         "discord-title": "♂300 Buckssss♂",
-        "discord-description": "My Discord Server",
+        "discord-description": "My Discord server and community."
     }
 }
 
