@@ -3,8 +3,14 @@ const translations = {
         "war-title": "Играй в War Thunder Прямо Сейчас!!!",
         "war-description": "Регистрация в War Thunder по моей ссылке.",
 
-        "discord-sights": "Discord Прицелы",
-        "discord-sights-description": "Прицелы из моих видео. Сервер принадлежит художникам.",
+        "site-title": "Hub-Thunder.online",
+        "site-description": "Прицелы, генератор и инструменты для War Thunder.",
+
+        "discord-sights": "Discord HUB THUNDER",
+        "discord-sights-description": "Прицелы из моих видео и наше сообщество.",
+
+        "boosty-title": "Boosty HUB THUNDER",
+        "boosty-description": "Поддержите проект и получите Premium-доступ.",
 
         "tiktok-title": "TikTok War Thunder Toaster",
         "tiktok-description": "Мой англоязычный TikTok с контентом по War Thunder.",
@@ -35,8 +41,14 @@ const translations = {
         "war-title": "Play War Thunder Now!!!",
         "war-description": "Register for War Thunder using my link.",
 
-        "discord-sights": "Discord Sights",
-        "discord-sights-description": "Crosshairs from my videos. The server belongs to the artists.",
+        "site-title": "Hub-Thunder.online",
+        "site-description": "Crosshairs, generator and tools for War Thunder.",
+
+        "discord-sights": "Discord HUB THUNDER",
+        "discord-sights-description": "Crosshairs from my videos and our community.",
+
+        "boosty-title": "Boosty HUB THUNDER",
+        "boosty-description": "Support the project and unlock Premium access.",
 
         "tiktok-title": "TikTok War Thunder Toaster",
         "tiktok-description": "My English-language TikTok with War Thunder content.",
