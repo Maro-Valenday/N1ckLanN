@@ -4,7 +4,7 @@ const translations = {
         "war-description": "Регистрация в War Thunder по моей ссылке.",
 
         "site-title": "Hub-Thunder.online",
-        "site-description": "Прицелы, генератор и инструменты для War Thunder.",
+        "site-description": "Скачивай, Генерируй, Создавай прицелы для War Thunder.",
 
         "discord-sights": "Discord HUB THUNDER",
         "discord-sights-description": "Прицелы из моих видео и наше сообщество.",
@@ -42,7 +42,7 @@ const translations = {
         "war-description": "Register for War Thunder using my link.",
 
         "site-title": "Hub-Thunder.online",
-        "site-description": "Crosshairs, generator and tools for War Thunder.",
+        "site-description": "Download, Generate, Create sights for War Thunder.",
 
         "discord-sights": "Discord HUB THUNDER",
         "discord-sights-description": "Crosshairs from my videos and our community.",
